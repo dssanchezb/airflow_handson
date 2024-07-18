@@ -2,3 +2,4 @@
 .venv
 fs
 logs
+dags/__pycache__
